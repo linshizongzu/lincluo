@@ -1,0 +1,22 @@
+[W 180616 17:46:47 Passport:11] warning msg
+[E 180616 17:46:47 Passport:12] error msg
+[W 180616 17:46:50 Passport:11] warning msg
+[E 180616 17:46:50 Passport:12] error msg
+[W 180616 17:52:46 Passport:11] warning msg
+[E 180616 17:52:46 Passport:12] error msg
+[W 180616 17:52:48 Passport:11] warning msg
+[E 180616 17:52:48 Passport:12] error msg
+[D 180616 17:53:54 selector_events:64] Using selector: KqueueSelector
+[I 180616 17:53:58 autoreload:196] server.py modified; restarting server
+[D 180616 17:53:58 selector_events:64] Using selector: KqueueSelector
+[D 180616 17:59:07 Passport:9] debug msg
+[I 180616 17:59:07 Passport:10] info msg
+[W 180616 17:59:07 Passport:11] warning msg
+[E 180616 17:59:07 Passport:12] error msg
+[I 180616 17:59:07 web:2106] 200 GET / (127.0.0.1) 1.63ms
+[D 180616 17:59:14 Passport:9] debug msg
+[I 180616 17:59:14 Passport:10] info msg
+[W 180616 17:59:14 Passport:11] warning msg
+[E 180616 17:59:14 Passport:12] error msg
+[I 180616 17:59:14 web:2106] 200 GET / (127.0.0.1) 1.32ms
+[I 180616 18:00:21 autoreload:196] /Users/germarygermary/Desktop/germanyfrance/config.py modified; restarting server
